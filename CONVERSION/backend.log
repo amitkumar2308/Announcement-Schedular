@@ -1,0 +1,57 @@
+2023-05-27 22:11:42,531 - INFO - Scheduled Announcement: Announcement
+2023-05-27 22:11:42,531 - INFO - Scheduled Date: 2023-05-27
+2023-05-27 22:11:42,531 - INFO - Scheduled Time: 22:10:31
+2023-05-27 22:11:42,531 - INFO - Repeat: Once
+2023-05-27 22:11:42,532 - INFO - Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-27 22:11:42,532 - DEBUG - announcement: Announcement
+2023-05-27 22:11:42,532 - DEBUG - date: 2023-05-27
+2023-05-27 22:11:42,532 - DEBUG - schedule_time: 22:10:31
+2023-05-27 22:11:42,532 - DEBUG - repeat: Once
+2023-05-27 22:11:42,532 - DEBUG - file_path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-27 22:11:42,532 - DEBUG - timestamp: 2023-05-27 22:11:42.476222
+2023-05-27 22:13:45,901 - INFO - Scheduled Announcement: xffgcg
+2023-05-27 22:13:45,901 - INFO - Scheduled Date: 2023-05-27
+2023-05-27 22:13:45,901 - INFO - Scheduled Time: 22:16:40
+2023-05-27 22:13:45,901 - INFO - Repeat: Once
+2023-05-27 22:13:45,901 - INFO - Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Time 9 50 2nd Lectur.mp3
+2023-05-27 22:13:45,902 - DEBUG - announcement: xffgcg
+2023-05-27 22:13:45,902 - DEBUG - date: 2023-05-27
+2023-05-27 22:13:45,902 - DEBUG - schedule_time: 22:16:40
+2023-05-27 22:13:45,902 - DEBUG - repeat: Once
+2023-05-27 22:13:45,902 - DEBUG - file_path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Time 9 50 2nd Lectur.mp3
+2023-05-27 22:13:45,902 - DEBUG - timestamp: 2023-05-27 22:13:45.848759
+2023-05-27 22:16:40,002 - DEBUG - Scheduled Time: 2023-05-27 22:16:40.002309
+2023-05-27 22:16:40,002 - DEBUG - Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Time 9 50 2nd Lectur.mp3
+2023-05-27 22:22:03,362 - INFO - Scheduled Announcement: Announcement | Scheduled D2023-05-27 | Scheduled Time: 22:21:51 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Dear Students your 1.mp3
+2023-05-27 22:22:03,362 - ment', 'date': '2023-05-27', 'schedule_time': '22:21:51', 'repeat': 'Once', 'file_path': 'C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Dear Students your 1.mp3', 'timestamp': datetime.datetime(2023, 5, 27, 22, 22, 3, 310863)}
+2023-05-27 22:24:51,020 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-27 | Scheduled Time: 22:24:34 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-27 22:24:51,020 - DEBUG - schedule_data: {'announcement': 'Announcement', 'date': '2023-05-27', 'schedule_time': '22:24:34', 'repeat': 'Once', 'file_path': 'C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3', 'timestamp': datetime.datetime(2023, 5, 27, 22, 24, 50, 970136)}
+2023-05-27 22:26:49,791 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-27 | Scheduled Time: 22:26:41 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-27 22:26:49,792 - DEBUG - schedule_data: {'announcement': 'Announcement', 'date': '2023-05-27', 'schedule_time': '22:26:41', 'repeat': 'Once', 'file_path': 'C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3', 'timestamp': datetime.datetime(2023, 5, 27, 22, 26, 49, 742363)}
+2023-05-27 22:30:17,716 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-27 | Scheduled Time: 22:30:08 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-27 22:37:11,992 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-27 | Scheduled Time: 22:36:55 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-27 22:40:51,441 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-27 | Scheduled Time: 22:40:31 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 07:49:48,432 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-28 | Scheduled Time: 07:48:47 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 08:38:01,716 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-28 | Scheduled Time: 08:38:47 | Repeat: Everyday | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 08:40:55,910 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-28 | Scheduled Time: 08:40:48 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 09:58:20,694 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-28 | Scheduled Time: 09:57:23 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 09:58:34,451 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-29 | Scheduled Time: 09:57:23 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 09:59:48,194 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-28 | Scheduled Time: 10:59:02 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 10:53:14,094 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-28 | Scheduled Time: 10:53:31 | Repeat: Everyday | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 10:53:26,337 - INFO - Scheduled Announcement: xyz | Scheduled Date: 2023-05-28 | Scheduled Time: 10:53:31 | Repeat: Everyday | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 10:53:33,629 - INFO - Scheduled Announcement: xyz | Scheduled Date: 2023-05-28 | Scheduled Time: 10:53:31 | Repeat: Everyday | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 10:53:44,203 - INFO - Scheduled Announcement: xyz2308 | Scheduled Date: 2023-05-28 | Scheduled Time: 10:53:31 | Repeat: Everyday | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 10:53:55,890 - INFO - Scheduled Announcement: xyz2308 | Scheduled Date: 2023-05-28 | Scheduled Time: 10:53:31 | Repeat: Everyday | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 10:54:09,373 - INFO - Scheduled Announcement: xyz2308 | Scheduled Date: 2023-05-28 | Scheduled Time: 10:53:31 | Repeat: Everyday | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 10:54:53,971 - INFO - Scheduled Announcement: xyz2308 | Scheduled Date: 2023-05-29 | Scheduled Time: 10:53:31 | Repeat: Everyday | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 12:44:28,603 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-28 | Scheduled Time: 12:43:43 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 13:26:25,626 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-28 | Scheduled Time: 13:26:33 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 13:26:39,822 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-28 | Scheduled Time: 13:27:33 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Dear Students your 1.mp3
+2023-05-28 14:46:48,888 - INFO - Scheduled Announcement: amit12345 | Scheduled Date: 2023-05-28 | Scheduled Time: 14:46:43 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 15:29:44,044 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-28 | Scheduled Time: 15:29:26 | Repeat: Once | Sound File Path: 
+2023-05-28 15:29:48,870 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-28 | Scheduled Time: 15:29:26 | Repeat: Once | Sound File Path: 
+2023-05-28 15:32:11,756 - INFO - Scheduled Announcement: effcfev | Scheduled Date: 2023-05-29 | Scheduled Time: 15:29:26 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 15:32:20,969 - INFO - Scheduled Announcement: fvrvrvr | Scheduled Date: 2023-05-29 | Scheduled Time: 15:29:26 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Time 9 50 2nd Lectur.mp3
+2023-05-28 18:13:12,431 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-28 | Scheduled Time: 18:13:08 | Repeat: Once | Sound File Path: 
+2023-05-28 21:55:06,408 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-28 | Scheduled Time: 21:54:39 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
+2023-05-28 21:55:44,652 - INFO - Scheduled Announcement: Announcement | Scheduled Date: 2023-05-28 | Scheduled Time: 21:55:18 | Repeat: Once | Sound File Path: C:/Users/amitk/Desktop/Automatic Announcement System/AI voice/Welcome to CT University.mp3
